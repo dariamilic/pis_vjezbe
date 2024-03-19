@@ -12,6 +12,7 @@ namespace pis_vjezbe
 
         public NewClass() { }
         public int number;
+        public int josNESTO;
 
     }
 }
