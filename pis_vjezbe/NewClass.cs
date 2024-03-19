@@ -8,5 +8,7 @@ namespace pis_vjezbe
 {
     internal class NewClass
     {
+
+        public NewClass() { }
     }
 }
